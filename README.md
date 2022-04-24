@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunsinghv
+- 👋 Hi, I’m @varunsingh
 - 👀 I’m interested in Co-op/ internship opportunities in USA
 - 🌱 I’m currently pursuing MS Analytics from Northeastern University 
 - 💞️ I’m looking to collaborate on python projects 
