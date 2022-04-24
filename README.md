@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varunsinghv
-- 👀 I’m interested in Co-op?internship opportunities in USA
+- 👀 I’m interested in Co-op/ internship opportunities in USA
 - 🌱 I’m currently pursuing MS Analytics from Northeastern University 
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me .. varun813singh@gmail.com/ varunx814singh@gmail.com
